@@ -12,7 +12,6 @@ Objectives:
 
 Example Output:
 
-
 ![image](https://user-images.githubusercontent.com/97081479/179027681-240c761f-d238-4755-a63c-dcfcb30eb198.png)
 
 ![image](https://user-images.githubusercontent.com/97081479/179027850-ddcfef6b-5dc4-466d-ac95-b3af3517d4c9.png)
